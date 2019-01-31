@@ -1,0 +1,56 @@
+*{
+    margin-top: 20px;    
+    margin-left: 100px;
+    margin-right: 100px;
+    box-sizing: border-box;
+    padding: 0px;
+    
+}
+
+header{
+   margin: 0px auto;
+ background-color: gray;
+display: flex;
+ 
+}
+
+.c1{
+    display: block;
+}
+
+
+.img1{
+    
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+
+
+
+
+
+
+.text1{
+    color: blue;
+    margin-top: 0px;
+    
+}
+
+p,
+dt {
+    font-weight: bold;
+}
+
+dl,
+dd {
+    font-size: .9rem;
+}
+
+dd {
+    margin-bottom: 1em;
+    text-align: right;
+}
+
+
